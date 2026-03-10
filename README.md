@@ -1,7 +1,5 @@
 # Site-Agro-Car---HTML-e-CSS
 
-<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/ed4d06fd-444f-4417-9268-331554bcc530" />
-
 #### O QUE É ESSE SITE
 
 O site sobre Agro-Car foi criado no período de 2023, junto a amigos e professores orientadores para a meu TCC
